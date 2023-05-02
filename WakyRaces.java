@@ -1,4 +1,7 @@
-public class CorridaMaluca {
+import Models.Carros.Carro;
+import Models.Jogador;
+
+public class WakyRaces {
     public static void main(String[] args){
         System.out.println("Escolha a quantidade de jogadores: ");
         int quantJogadores = 3;
